@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.env
+airflow/.env
+!.env.example
+
+# Données et fichiers générés
+data/
+airflow/logs/
+airflow/config/
+*.log
