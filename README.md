@@ -59,7 +59,7 @@ Sur cette période, le modèle indique un pic de PM2,5 autour du 24 octobre, ave
 - Il n'y a qu'une ville pour l'instant, Dakar. Pour en ajouter, il faut compléter CITIES dans src/extract.py et COUNTRIES dans src/load.py.
 - La configuration est faite pour un usage local, pas pour la production.
 
-## pour lancer le projet
+## pour lancer mon projet
 
 Il faut Python, Docker Desktop et Git.
 
